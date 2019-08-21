@@ -30,7 +30,11 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-
+[Lógica de programação I: Os primeiros programas com Javascript e HTML](https://www.alura.com.br/curso-online-logica-programacao-javascript-html) | [Alura](https://www.alura.com.br) | :green_heart: | Lógica de Programação | :money:
+[JavaScript: Programando na linguagem da web](https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web) | [Alura](https://www.alura.com.br) | :green_heart: | Introdução ao Javascript | :money:
+[JavaScript avançado I: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :money:
+[JavaScript Avançado II: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2) | [Alura](https://www.alura.com.br) | :large_orange_diamong: | POO em Javascript | :money:
+[JavaScript Avançado III: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-30) | [Alura](https://www.alura.com.br) | :large_orange_diamong: | POO em Javascript | :money:
 
 [Ir para o índice](#Índice)
 
@@ -70,7 +74,7 @@ Título | Assunto | Idioma
 
 Nome do Evento | Região Realizada
 :-- | :--
-
+[BrasilJS](https://braziljs.org/) | 
 
 [Ir para o índice](#Índice)
 
@@ -78,6 +82,7 @@ Nome do Evento | Região Realizada
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
+
 
 
 [Ir para o índice](#Índice)
@@ -96,9 +101,6 @@ Nome do Podcast | Idioma
 
 [Ir para o índice](#Índice)
 
-
-
-[Ir para o índice](#Índice)
 
 
 ## Team
