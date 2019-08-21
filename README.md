@@ -30,11 +30,11 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Lógica de programação I: Os primeiros programas com Javascript e HTML](https://www.alura.com.br/curso-online-logica-programacao-javascript-html) | [Alura](https://www.alura.com.br) | :green_heart: | Lógica de Programação | :money:
-[JavaScript: Programando na linguagem da web](https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web) | [Alura](https://www.alura.com.br) | :green_heart: | Introdução ao Javascript | :money:
-[JavaScript avançado I: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :money:
-[JavaScript Avançado II: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :money:
-[JavaScript Avançado III: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-30) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :money:
+[Lógica de programação I: Os primeiros programas com Javascript e HTML](https://www.alura.com.br/curso-online-logica-programacao-javascript-html) | [Alura](https://www.alura.com.br) | :green_heart: | Lógica de Programação | :moneybag:
+[JavaScript: Programando na linguagem da web](https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web) | [Alura](https://www.alura.com.br) | :green_heart: | Introdução ao Javascript | :moneybag:
+[JavaScript avançado I: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :moneybag:
+[JavaScript Avançado II: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :moneybag:
+[JavaScript Avançado III: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-30) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :moneybag:
 
 [Ir para o índice](#Índice)
 
