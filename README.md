@@ -74,7 +74,15 @@ Título | Assunto | Idioma
 
 Nome do Evento | Região Realizada
 :-- | :--
-[BrasilJS](https://braziljs.org/) | 
+[BrasilJS](https://braziljs.org/) | Porto Alegre
+[BrasilJS On THE ROAD](https://braziljs.org/eventos/) | Belo Horizonte
+[Front in BH](https://frontinbh.com.br/) | Belo Horizonte
+[Front in Campinas](https://frontincampinas.com.br/) | Campinas
+[Front in Floripa](http://frontinfloripa.com.br/) | Florianópolis
+[Front in Fortaleza](https://frontinfortaleza.com.br/) | Fortaleza
+[Front in Sampa](https://www.frontinsampa.com.br/) | São Paulo
+[Front in POA](https://frontin.poa.br/) | Porto Alegre
+
 
 [Ir para o índice](#Índice)
 
