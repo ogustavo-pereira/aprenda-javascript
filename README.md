@@ -35,6 +35,11 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [JavaScript avançado I: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :moneybag:
 [JavaScript Avançado II: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :moneybag:
 [JavaScript Avançado III: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-30) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :moneybag:
+[JavaScript](https://rocketseat.com.br/starter/curso-gratuito-javascript) | [Rocketseat](https://rocketseat.com.br/) | :green_heart: | Javascript | :free:
+[JavaScript ES6+](https://rocketseat.com.br/starter/curso-gratuito-javascript-es6) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | Javascript | :free:
+[NodeJS](https://rocketseat.com.br/starter/curso-gratuito-nodejs) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
+[ReactJS](https://rocketseat.com.br/starter/curso-gratuito-reactjs) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
+[React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
 
 [Ir para o índice](#Índice)
 
