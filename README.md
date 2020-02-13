@@ -47,7 +47,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
-
+[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | Documentação de Javascript para Web | HTML | :free: | Português
 
 [Ir para o índice](#Índice)
 
@@ -95,6 +95,23 @@ Nome do Evento | Região Realizada
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
+[JS BRASIL](https://telegram.me/javascriptbrasil) | Telegram | Português
+[EmberBR](https://t.me/EmberBR) | Telegram | Português
+[ANGULARJS BRASIL](https://telegram.me/angularjsbrasil) | Telegram | Português
+[Electron BR](https://telegram.me/electronJs_BR) | Telegram | Português
+[JS BRASIL](https://telegram.me/javascriptbrasil) | Telegram | Português
+[Node.js BRASIL](https://telegram.me/NodejsBR) | Telegram | Português
+[NODEBR](https://telegram.me/NodeBR) | Telegram | Português
+[RxJS BRASIL - Programação Reativa](https://telegram.me/rxjsbrasil) | Telegram | Português
+[GraphQL Brasil](https://t.me/GraphQLBrasil) | Telegram | Português
+[VUEJS BRASIL](https://telegram.me/vuejsbrasil) | Telegram | Português
+[Vue.js Vix](https://t.me/vuejsvix) | Telegram | Português
+[ElementUI Brasil](https://t.me/elementbr) | Telegram | Português
+[Vuetify Framework Brasil](https://t.me/vuetifybr) | Telegram | Português
+[NativescriptVue Brasil](https://t.me/nativescriptvuebr) | Telegram | Português
+[NativeScript BR](https://t.me/nativescriptbr)  | Telegram | Português
+[Vue Native](https://t.me/VueNative) | Telegram | Português
+[NuxtJS Brasil](https://t.me/nuxtjs_brasil) | Telegram | Português
 
 
 
@@ -110,6 +127,11 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
+[DNE 153 - Vale a pena ReactJS?](https://devnaestrada.com.br/2018/04/20/vale-a-pena-reactjs.html) | Português
+[DNE 138 - Vale a pena VueJS?](https://devnaestrada.com.br/2018/01/05/vale-pena-vuejs.html) | Português
+[DNE 115 - Vale a pena utilizar Angular?](https://devnaestrada.com.br/2017/07/28/angular-js.html) | Português
+[DNE - AngularJS vs ReactJS feat CodeSchool](https://devnaestrada.com.br/2016/09/23/angular-vs-react.html) | Português
+[DNE 199 - Vale a pena TypeScript?](https://devnaestrada.com.br/2019/03/29/vale-a-pena-type-script.html) | Português
 
 
 [Ir para o índice](#Índice)
@@ -122,7 +144,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) 
 --- |
-[User Name](https://github.com/oguhpereira) | 
+[Gustavo Pereira](https://github.com/oguhpereira) | 
 
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
