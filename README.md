@@ -40,6 +40,9 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [NodeJS](https://rocketseat.com.br/starter/curso-gratuito-nodejs) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
 [ReactJS](https://rocketseat.com.br/starter/curso-gratuito-reactjs) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
 [React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
+[React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
+[Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | [Curso em Vídeo]https://www.cursoemvideo.com/sucesso/) | :green_heart: | JavaScript Moderno | :free:
+
 
 [Ir para o índice](#Índice)
 
@@ -55,14 +58,19 @@ Título | Assunto | Formato | Preço | Idioma
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-
+[Felipe Fialho](https://www.felipefialho.com/blog/) | Felipe Fialho | Português
+[DEV Community - Lucas Santos](https://dev.to/khaosdoctor) | Lucas Santos | Português, Inglês
 
 [Ir para o índice](#Índice)
 
 ## :video_camera: Palestras (vídeos)
 
-Título | Evento | Assuntos
+Título | Palestrante | Evento | 
 :-- | :-- | :--
+[Estoicismo e JavaScript](https://youtu.be/2S1BYjojuJg) | Zeno Rocha | [BrasilJS](https://braziljs.org/) 
+[Ensinando JS para aprender JS](https://youtu.be/JEKfVdOM2Ak) | Artur Diniz | [BrasilJS](https://braziljs.org/)
+[JavaScript gives you superpowers, use them](https://youtu.be/G8Fa8oVnakM) | Guilherme Souza | [BrasilJS](https://braziljs.org/)
+[Fazendo drinks com JavaScript](https://youtu.be/G8Fa8oVnakM) | Andre Garzia | [BrasilJS](https://braziljs.org/)
 
 
 [Ir para o índice](#Índice)
@@ -112,8 +120,6 @@ Nome da Comunidade | Tipo | Idioma
 [NativeScript BR](https://t.me/nativescriptbr)  | Telegram | Português
 [Vue Native](https://t.me/VueNative) | Telegram | Português
 [NuxtJS Brasil](https://t.me/nuxtjs_brasil) | Telegram | Português
-
-
 
 [Ir para o índice](#Índice)
 
