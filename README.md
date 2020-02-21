@@ -41,7 +41,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [ReactJS](https://rocketseat.com.br/starter/curso-gratuito-reactjs) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
 [React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
 [React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
-[Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | [Curso em Vídeo]https://www.cursoemvideo.com/sucesso/) | :green_heart: | JavaScript Moderno | :free:
+[Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | [Curso em Vídeo](https://www.cursoemvideo.com/sucesso/) | :green_heart: | JavaScript Moderno | :free:
 
 
 [Ir para o índice](#Índice)
