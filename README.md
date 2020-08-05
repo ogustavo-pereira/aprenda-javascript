@@ -75,14 +75,6 @@ Título | Palestrante | Evento |
 
 [Ir para o índice](#Índice)
 
-## :computer: Screencasts
-Título | Assunto | Idioma
-:-- | :-- | :--
-
-
-[Ir para o índice](#Índice)
-
-
 ## :circus_tent: Eventos Ativos
 
 Nome do Evento | Região Realizada
@@ -123,12 +115,6 @@ Nome da Comunidade | Tipo | Idioma
 
 [Ir para o índice](#Índice)
 
-## :paperclip: Feeds
-Nome do Feed | Idioma
-:-- | :--:
-
-
-[Ir para o índice](#Índice)
 
 ## :sound: Podcasts
 Nome do Podcast | Idioma
@@ -142,6 +128,9 @@ Nome do Podcast | Idioma
 
 [Ir para o índice](#Índice)
 
+## Mais Sobre
+
+* [HTML e CSS](https://github.com/learnbr/html-css)
 
 
 ## Team
