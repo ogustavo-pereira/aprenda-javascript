@@ -13,10 +13,8 @@
 	<a href="#book-livros">Livros</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
 	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras</a> •
-	<a href="#computer-screencasts">Screencasts</a> •
 	<a href="#eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
-	<a href="#paperclip-feeds">Feeds</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
 </p>
 
@@ -60,6 +58,7 @@ Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
 [Felipe Fialho](https://www.felipefialho.com/blog/) | Felipe Fialho | Português
 [DEV Community - Lucas Santos](https://dev.to/khaosdoctor) | Lucas Santos | Português, Inglês
+[Nipher](https://nipher.io/blog/) | Jonas Mendes | Português, Inglês
 
 [Ir para o índice](#Índice)
 
@@ -131,6 +130,7 @@ Nome do Podcast | Idioma
 ## Mais Sobre
 
 * [HTML e CSS](https://github.com/learnbr/html-css)
+* [developer.mozilla.org docs web javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ## Team
