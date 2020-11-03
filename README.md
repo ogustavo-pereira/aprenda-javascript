@@ -4,7 +4,7 @@
 
 <h1 align="center">Aprenda Javascript</h1>
 
-<p align="center">Central de conhecimento sobre Javascript.</p>
+<p align="center">Agrupamento de link's sobre Javascript.</p>
 
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
