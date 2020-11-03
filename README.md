@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="200px" src="https://raw.githubusercontent.com/learnbr/javascript/master/logo.png" alt="Aprenda Javascript" style="width:100px;">
+	<img width="100px" src="https://raw.githubusercontent.com/learnbr/javascript/master/logo.png" alt="Aprenda Javascript" style="width:100px;">
 </p>
 
 <h1 align="center">Aprenda Javascript</h1>
@@ -16,6 +16,7 @@
 	<a href="#eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
+	<a href="#mais-sobre">Mais Sobre</a>
 </p>
 
 ## :mortar_board: Cursos
@@ -46,9 +47,9 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 ## :book: Livros
 
-Título | Assunto | Formato | Preço | Idioma
+Título | Autor | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
-[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | Documentação de Javascript para Web | HTML | :free: | Português
+[You Don't Know JS: Scope & Closures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | Kyle Simpson | Ebook | :moneybag: | Português
 
 [Ir para o índice](#Índice)
 
@@ -129,13 +130,13 @@ Nome do Podcast | Idioma
 
 ## Mais Sobre
 
-* [HTML e CSS](https://github.com/learnbr/html-css)
-* [developer.mozilla.org docs web javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [HTML e CSS - LearnBR](https://github.com/learnbr/html-css)
+* [developer.mozilla.org - Docs Web Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-## Team
+## Time
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/javascript/graphs/contributors).
+Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
 [![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) 
 --- |
