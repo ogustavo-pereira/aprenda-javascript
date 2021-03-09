@@ -24,7 +24,6 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-
 [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | [Curso em Vídeo](https://www.cursoemvideo.com/sucesso/) | Básico | JavaScript Moderno | Gratuito
 [JavaScript](https://rocketseat.com.br/starter/curso-gratuito-javascript) | [Rocketseat](https://rocketseat.com.br/) | Básico | Javascript | Gratuito
 [JavaScript ES6+](https://rocketseat.com.br/starter/curso-gratuito-javascript-es6) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | Javascript | Gratuito
