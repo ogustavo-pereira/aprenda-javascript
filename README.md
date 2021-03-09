@@ -21,27 +21,22 @@
 
 ## :mortar_board: Cursos
 
-**Legenda:**
-
-- :green_heart:: Básico
-- :large_orange_diamond:: Intermediário
-- :red_circle:: Avançado
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Lógica de programação I: Os primeiros programas com Javascript e HTML](https://www.alura.com.br/curso-online-logica-programacao-javascript-html) | [Alura](https://www.alura.com.br) | :green_heart: | Lógica de Programação | :moneybag:
-[JavaScript: Programando na linguagem da web](https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web) | [Alura](https://www.alura.com.br) | :green_heart: | Introdução ao Javascript | :moneybag:
-[JavaScript avançado I: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :moneybag:
-[JavaScript Avançado II: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :moneybag:
-[JavaScript Avançado III: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-30) | [Alura](https://www.alura.com.br) | :large_orange_diamond: | POO em Javascript | :moneybag:
-[JavaScript](https://rocketseat.com.br/starter/curso-gratuito-javascript) | [Rocketseat](https://rocketseat.com.br/) | :green_heart: | Javascript | :free:
-[JavaScript ES6+](https://rocketseat.com.br/starter/curso-gratuito-javascript-es6) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | Javascript | :free:
-[NodeJS](https://rocketseat.com.br/starter/curso-gratuito-nodejs) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
-[ReactJS](https://rocketseat.com.br/starter/curso-gratuito-reactjs) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
-[React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
-[React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | :large_orange_diamond: | NodeJS | :free:
-[Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | [Curso em Vídeo](https://www.cursoemvideo.com/sucesso/) | :green_heart: | JavaScript Moderno | :free:
 
+[Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | [Curso em Vídeo](https://www.cursoemvideo.com/sucesso/) | Básico | JavaScript Moderno | Gratuito
+[JavaScript](https://rocketseat.com.br/starter/curso-gratuito-javascript) | [Rocketseat](https://rocketseat.com.br/) | Básico | Javascript | Gratuito
+[JavaScript ES6+](https://rocketseat.com.br/starter/curso-gratuito-javascript-es6) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | Javascript | Gratuito
+[NodeJS](https://rocketseat.com.br/starter/curso-gratuito-nodejs) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
+[ReactJS](https://rocketseat.com.br/starter/curso-gratuito-reactjs) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
+[React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
+[React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
+[Lógica de programação I: Os primeiros programas com Javascript e HTML](https://www.alura.com.br/curso-online-logica-programacao-javascript-html) | [Alura](https://www.alura.com.br) | Básico | Lógica de Programação | Pago
+[JavaScript: Programando na linguagem da web](https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web) | [Alura](https://www.alura.com.br) | Básico | Introdução ao Javascript | Pago
+[JavaScript avançado I: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1) | [Alura](https://www.alura.com.br) | Intermediário | POO em Javascript | Pago
+[JavaScript Avançado II: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2) | [Alura](https://www.alura.com.br) | Intermediário | POO em Javascript | Pago
+[JavaScript Avançado III: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-30) | [Alura](https://www.alura.com.br) | Intermediário | POO em Javascript | Pago
 
 [Ir para o índice](#Índice)
 
@@ -49,7 +44,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Autor | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
-[You Don't Know JS: Scope & Closures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | Kyle Simpson | Ebook | :moneybag: | Português
+[You Don't Know JS: Scope & Closures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | Kyle Simpson | Ebook | Pago | Português
 
 [Ir para o índice](#Índice)
 
@@ -117,8 +112,9 @@ Nome da Comunidade | Tipo | Idioma
 
 
 ## :sound: Podcasts
+
 Nome do Podcast | Idioma
-:-- | :--:
+:-- | :--
 [DNE 153 - Vale a pena ReactJS?](https://devnaestrada.com.br/2018/04/20/vale-a-pena-reactjs.html) | Português
 [DNE 138 - Vale a pena VueJS?](https://devnaestrada.com.br/2018/01/05/vale-pena-vuejs.html) | Português
 [DNE 115 - Vale a pena utilizar Angular?](https://devnaestrada.com.br/2017/07/28/angular-js.html) | Português
