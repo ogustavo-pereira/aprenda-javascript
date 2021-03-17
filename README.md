@@ -30,7 +30,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [NodeJS](https://rocketseat.com.br/starter/curso-gratuito-nodejs) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
 [ReactJS](https://rocketseat.com.br/starter/curso-gratuito-reactjs) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
 [React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
-[React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
 [Lógica de programação I: Os primeiros programas com Javascript e HTML](https://www.alura.com.br/curso-online-logica-programacao-javascript-html) | [Alura](https://www.alura.com.br) | Básico | Lógica de Programação | Pago
 [JavaScript: Programando na linguagem da web](https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web) | [Alura](https://www.alura.com.br) | Básico | Introdução ao Javascript | Pago
 [JavaScript avançado I: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1) | [Alura](https://www.alura.com.br) | Intermediário | POO em Javascript | Pago
