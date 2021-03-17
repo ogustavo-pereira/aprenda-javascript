@@ -36,6 +36,8 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [JavaScript avançado I: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1) | [Alura](https://www.alura.com.br) | Intermediário | POO em Javascript | Pago
 [JavaScript Avançado II: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2) | [Alura](https://www.alura.com.br) | Intermediário | POO em Javascript | Pago
 [JavaScript Avançado III: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-30) | [Alura](https://www.alura.com.br) | Intermediário | POO em Javascript | Pago
+[NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID](https://www.udemy.com/course/tdd-com-mango/) | [Udemy](https://www.udemy.com/) | Avançado | Arquitetura, Testes, DevOps | Pago
+[ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID](https://www.udemy.com/course/react-com-mango/) | [Udemy](https://www.udemy.com/) | Avançado | Arquitetura, Testes, Web | Pago
 
 [Ir para o índice](#Índice)
 
