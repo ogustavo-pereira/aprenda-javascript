@@ -123,16 +123,3 @@ Nome do Podcast | Idioma
 
 * [HTML e CSS - LearnBR](https://github.com/learnbr/html-css)
 * [developer.mozilla.org - Docs Web Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
-## Time
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Gustavo Pereira](https://github.com/oguhpereira)
-
-<h6 align="center">
-	<a href="./MIT.md">MIT</a>
-	©
-	Learn Br
-</h6>
